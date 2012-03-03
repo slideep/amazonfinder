@@ -1,0 +1,123 @@
+2004-02-28 16:03  slide
+
+	* AmazonFinder.dpr, AmazonFinder.log, AmazonFinder.res,
+	  data/config.xml, source/dlgPreferences.dfm,
+	  source/dlgPreferences.pas, source/frmMain.dfm,
+	  source/frmMain.pas, source/uFinderGlobals.pas,
+	  source/uFinderXmlConfig.pas, website/index.html,
+	  website/styles.css: asdf
+
+2004-02-28 02:44  slide
+
+	* AmazonFinder.dpr, AmazonFinder.log, AmazonFinder.res, TODO,
+	  setup.iss, data/config.xml, source/dlgAbout.dfm,
+	  source/dlgAbout.pas, source/dlgCategories.dfm,
+	  source/dlgCategories.pas, source/dlgPreferences.dfm,
+	  source/dlgPreferences.pas, source/frmMain.dfm,
+	  source/frmMain.pas, source/frmSplash.dfm, source/frmSplash.pas,
+	  source/uFinderGlobals.pas, source/uFinderXmlConfig.pas,
+	  source/uFinderXmlHistory.pas, source/uProduct.pas,
+	  source/images/splash.jpg, website/faq.html, website/guide.html,
+	  website/index.html, website/styles.css,
+	  website/images/Step_0.png, website/images/Step_1.png,
+	  website/images/Step_2.png, website/images/Step_3.png,
+	  website/images/Step_4.png, examples/search_star_wars.xml:
+	  Cosmetic changes, updated units, added new functionality.
+
+2004-02-26 22:14  slide
+
+	* AmazonFinder.dpr, AmazonFinder.log, AmazonFinder.res, TODO,
+	  setup.iss, data/config.xml, data/history.xml,
+	  source/dlgAbout.dfm, source/dlgAbout.pas,
+	  source/dlgCategories.pas, source/dlgPreferences.dfm,
+	  source/dlgPreferences.pas, source/frmMain.dfm,
+	  source/frmMain.pas, source/frmSplash.dfm, source/frmSplash.pas,
+	  source/uFinderGlobals.pas, source/uFinderXmlConfig.pas,
+	  source/uFinderXmlHistory.pas, source/uProduct.pas,
+	  source/uShoppingCart.pas, source/uXmlUtils.pas,
+	  source/images/splash.jpg, website/index.html: Cosmetic changes,
+	  updated units, added new functionality.
+
+2004-02-26 16:45  slide
+
+	* website/: index.html, styles.css: asdf
+
+2004-02-26 13:50  slide
+
+	* AmazonFinder.dpr, CHANGELOG, TODO, source/dlgCategories.dfm,
+	  source/dlgCategories.pas, source/frmMain.dfm, source/frmMain.pas,
+	  source/frmSplash.dfm, source/frmSplash.pas,
+	  source/uFinderGlobals.pas, source/uFinderXmlConfig.pas,
+	  source/uFinderXmlHistory.pas, website/index.html,
+	  data/history.xml, setup.iss: asdf
+
+2004-02-25 11:28  slide
+
+	* AmazonFinder.dpr, AmazonFinder.log, setup.iss, data/config.xml,
+	  source/dlgPreferences.pas, source/frmMain.pas,
+	  source/uFinderConfig.pas, source/uFinderGlobals.pas,
+	  source/uFinderXmlConfig.pas, source/uXmlUtils.pas: New
+	  configuration unit, updated accordingly other units to take
+	  effect.
+
+2004-02-25 02:51  slide
+
+	* AmazonFinder.log, source/frmMain.dfm, source/frmMain.pas,
+	  source/uFinderGlobals.pas, website/index.html: asdf
+
+2004-02-24 23:45  slide
+
+	* website/images/MainScreen.png: asdf
+
+2004-02-24 23:27  slide
+
+	* AmazonFinder.dpr, AmazonFinder.log, CHANGELOG, setup.iss,
+	  source/dlgPreferences.dfm, source/dlgPreferences.pas,
+	  source/frmMain.dfm, source/frmMain.pas,
+	  source/uFinderGlobals.pas: Cosmetic changes, updated units.
+
+2004-02-24 19:13  slide
+
+	* AmazonFinder.dpr, AmazonFinder.log, TODO, source/frmMain.dfm,
+	  source/frmMain.pas, source/frmSplash.dfm, source/frmSplash.pas,
+	  source/uFinderGlobals.pas, source/uXmlUtils.pas,
+	  source/images/splash.jpg: Added uXmlUtils unit, fixed cosmetic
+	  issues in files, added more functionality. New splash image.
+
+2004-02-24 16:00  slide
+
+	* AmazonFinder.dpr, AmazonFinder.log, CHANGELOG, setup.iss,
+	  data/categories.xml, source/dlgAbout.dfm,
+	  source/dlgCategories.dfm, source/dlgCategories.pas,
+	  source/frmMain.dfm, source/frmMain.pas, source/frmSplash.dfm,
+	  source/frmSplash.pas, source/uFinderGlobals.pas,
+	  source/uProduct.pas, source/uShoppingCart.pas,
+	  website/index.html: Added categories dialog, fixed cosmetic
+	  issues in files, added more functionality.
+
+2004-02-24 11:45  slide
+
+	* website/: index.html, styles.css: Cosmetic changes.
+
+2004-02-23 17:46  slide
+
+	* setup.iss: Cosmetic changes.
+
+2004-02-23 17:09  slide
+
+	* AmazonFinder.bpg, AmazonFinder.cfg, AmazonFinder.dpr,
+	  AmazonFinder.log, AmazonFinder.res, README, TODO, setup.iss,
+	  doc/COPYING.txt, doc/DOCUMENTATION, examples/search_error.xml,
+	  examples/search_star_wars.xml, source/AmazonBrowser.cfg,
+	  source/dlgAbout.dfm, source/dlgAbout.pas,
+	  source/dlgPreferences.dfm, source/dlgPreferences.pas,
+	  source/frmMain.dfm, source/frmMain.pas, source/frmSplash.dfm,
+	  source/frmSplash.pas, source/uFinderConfig.pas,
+	  source/uFinderGlobals.pas, source/uProduct.pas,
+	  source/uShoppingCart.pas, source/images/WizModernImg01.bmp,
+	  source/images/ikoni.ico, source/images/shop.bmp,
+	  website/index.html, website/styles.css,
+	  website/images/MainScreenMenu.png, website/images/graylink.gif:
+	  First import of the source tree for a starting point to start
+	  development.
+

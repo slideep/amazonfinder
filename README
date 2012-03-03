@@ -1,0 +1,63 @@
+-------------------------------------------------------------------------------
+$Id: README,v 1.7 2004/05/10 06:15:13 slide Exp $ 
+
+README for Amazon Product Finder (Windows-version)
+
+Last modified on $Date: 2004/05/10 06:15:13 $
+
+-------------------------------------------------------------------------------
+
+Introduction
+----
+Amazon Product Finder is targeted for the home user or a seller. Program
+gives its user a fast way to search the Amazon.com catalogs for various 
+products and related product information. Perfect for random compulsive 
+shopping experience!
+
+Features
+----
+Amazon Product Finder will parse and process the XML response data and populate 
+the user interface accordingly to user selected colums and detail level.
+
+Minimum Windows System Requirements
+----
+Amazon Product Finder runs on Windows 2000 and Windows XP. Requires 
+MSXML4.
+
+- Microsoft Windows 2000/NT4/XP or later.
+- Microsoft Internet Explorer 4.0 or later
+
+License
+----
+Please read the License Agreement that is enclosed (COPYING.txt).
+
+Feedback
+----
+If you want to contact, please drop a line to slide@users.sourceforge.net.
+
+Bugs
+----
+Report all bugs found to the APF forum or to a mailing list provided
+for users and developers.
+
+Thanks
+----
+- Amazon Web Services (AWS)
+	- http://www.amazon.com/webservices/
+	
+- JEDI Visual Component Library (JVCL)
+	- http://sourceforge.net/projects/jvcl
+		
+- XP Menu 
+	- http://www.shagrouni.com/english/software/xpmenu.html
+	
+- TMAPIMail
+	- http://www.scalabium.com/mapimail.htm
+	
+- GExperts
+	- http://www.gexperts.org/		
+
+- glyFX Toolbar Images 
+	- http://www.glyfx.com/products/free.html
+
+- TurboPower 	

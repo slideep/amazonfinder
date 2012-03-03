@@ -1,0 +1,152 @@
+
+/* 
+ * $Id: styles.css,v 1.6 2004/03/09 07:47:16 slide Exp $
+ *
+ * Template from CSS Zen Garden
+ *
+ * Last modified on : $Date: 2004/03/09 07:47:16 $
+ * 
+ */
+
+body {
+	background: #0261E1;
+}
+
+div, p, a{ 
+	font-family: "Trebuchet MS", Verdana, sans-serif; 
+	font-size: 12px; 
+	color: #000; 
+}
+
+h1 {
+	font-size: xx-large;
+	font-weight: bold;			
+	text-align: center;
+	padding: 15px;
+	/*border-bottom: 1px solid #6699CC;*/	
+	height: 39px;	
+}
+
+a:link {	
+	color : #123; /* #000084 #4169e1 */
+	font-weight : normal;
+	text-decoration : none;
+	background-color : transparent; 
+} 
+
+a:hover { 
+	color: #fff; 
+	background-color: #39f; 	
+	text-decoration : underline;	
+}
+
+a:visited {
+	font-size : 13px;
+	font-weight : normal;
+	color : #778899;
+	text-decoration : none;
+	background-color : transparent; 
+}
+
+#supportingText p { 
+	padding-left: 15px; 
+	padding-right: 15px; 
+	text-align: justify; 
+}
+
+#container { 	
+	width: 750px; 
+	padding: 0px 0px 0px 0px; 
+	margin: 0px auto; 
+	position: relative; 
+	border-bottom: 1px dotted #FCEBFE;
+}
+
+#intro {
+	background: transparent; 
+	width: 175px; 
+	padding: 0px 10px; 
+	margin: 0px; 
+	position: absolute; 
+	top: 50px; 
+	right: 0px; 
+	width: 155px;
+}
+
+html>body #intro { 	
+	width: 155px; 
+}
+
+#pageHeader { 
+	display: none; 
+}
+
+#linkList {	
+	/*background-color: #FEC9FD; 	*/
+	width: 175px; 
+	padding: 0px 10px; 
+	margin: 0px; 
+	position: absolute; 
+	top: 105px; 
+	left: 0px; 
+	width: 155px;
+}
+
+html>body #linkList {
+	width: 155px;
+}
+
+#supportingText {	
+	background-color: #fff;	
+	width: auto; 
+	padding: 30px 4px 20px 4px; 
+	margin: 0px 175px 0px 175px; 	
+	border-left: 2px solid #FEC9FD; /*#A9334D; */
+}
+
+#footer {
+	padding: 0px 0px 0px 15px; 
+	margin: 0px;
+}
+
+#linkList ul {
+	padding: 0px 15px; 
+	margin: 0px; 
+	list-style: none;
+}
+
+#linkList li {
+	padding: 0px; 
+	margin: 0px;
+}
+
+#lselect li { border-bottom: 1px solid #ccc; padding: 3px 0px; }
+#lselect a { display: block; }
+#lselect a.c { display: inline; }
+
+h3 span { 	
+	display: block; 	
+	border-bottom: 3px dotted #FEC9FD;
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+	line-height: normal;		
+}
+
+#supportingText h3 { height: 30px; }
+
+#quickSummary p.p1 { 
+	margin-top: 14px; 
+}
+
+#explanation h3 { 
+	margin-top: 0px; 
+}
+#lselect h3 { 
+	margin-top: 4px; 
+}
+
+acronym { 
+	border: 0px; 
+	text-decoration: underline;
+}

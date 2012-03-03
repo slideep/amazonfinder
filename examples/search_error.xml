@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductInfo>
+	<Request>
+		<Args>
+			<Arg value="Mozilla/3.0 (compatible; Indy Library)" name="UserAgent"></Arg>
+			<Arg value="1" name="page"></Arg>
+			<Arg value="DXZ05JAAKIREU" name="dev-t"></Arg>
+			<Arg value="xml" name="f"></Arg>
+			<Arg value="lite" name="type"></Arg>
+			<Arg value="1WCTN1P1QVWF3TQCB6C0" name="RequestID"></Arg>
+			<Arg value="us" name="locale"></Arg>
+			<Arg value="faulkner" name="authorSearch"></Arg>
+			<Arg value="webservices-20" name="t"></Arg>
+			<Arg value="books" name="mode"></Arg>
+		</Args>
+	</Request>
+	<ErrorMsg>There are no exact matches for the search.</ErrorMsg>
+</ProductInfo>

@@ -1,0 +1,18 @@
+<?xml version="1.0">
+<Alarms>		 		
+	<Alarm id="1" state="active">
+		<Name>Price Change Alarm</Name>
+		<Type>Price</Type>
+		<Param></Param>
+	</Alarm>		
+	<Alarm id="2" state="active">		
+		<Name>Sales Rank Alarm</Name>
+		<Type>Sales</Type>
+		<Param></Param>
+	</Alarm>			
+	<Alarm id="3" state="inactive">		
+		<Name>Average Rating Alarm</Name>
+		<Type>Rating</Type>
+		<Param></Param>
+	</Alarm>			
+</Alarms>

@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+$Id: DOCUMENTATION,v 1.1 2004/02/23 15:09:32 slide Exp $
+
+DOCUMENTATION Amazon Product Finder
+
+Last modified on $Date: 2004/02/23 15:09:32 $
+
+-------------------------------------------------------------------------------
+
+Documentation for the Amazon Product Finder is still in its infancy but 
+hopefully the user experience will be self-describing.
+
+Pressing Enter in keywords field executes the given search parameters.
+
+Keyboard Shortcuts
+-------
+Ctrl+O	Open Search File
+Ctrl+S	Save Search  
+F12     Save Search As
+Ctrl+A	Select All Results
+Ctrl+B  Browse Product Page
+Ctrl++  Add New Product Category
+Shift + Del  Remove Product Category
+Ins     Insert Product to Shopping Cart
+Del     Remove Product from Shopping Cart
+
+..etc

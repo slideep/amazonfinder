@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Categories>
+	<category id="Name" description="Name of the product" />
+	<category id="Catalog" description="Catalog of the product" />
+	<category id="Price" description="Price of the procuct" />
+	<category id="Availability" description="Availability information for the product" />		
+	<category id="Sales Rank" description="" />
+</Categories>

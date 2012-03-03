@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Configuration>
+  <General firstTime="False" useProxy="False" useAuth="False" useSplash="True" defaultType="True" updateStart="False" compressCache="True"/>
+  <Dirs cacheDir="" imageDir="" exportDir=""/>
+  <Proxy proxyHost="" proxyPort="0" proxyUser="" proxyPasswd=""/>
+  <Remote remoteHost="" remotePort="0" remoteEnd=""/>
+  <Search type="Lite" update="7"/>
+  <Export type="html" defaultType="True"/>
+</Configuration>
